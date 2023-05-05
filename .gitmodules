@@ -7,3 +7,6 @@
 [submodule "parsy"]
 	path = parsy
 	url = git@github.com:python-parsy/parsy.git
+[submodule "public"]
+	path = public
+	url = https://gitlab.com/warsaw/public.git
