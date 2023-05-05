@@ -1,0 +1,17 @@
+name: sf_env
+channels:
+- snowflake
+dependencies:
+- bidict
+- importlib_resources
+- multipledispatch
+- numpy
+- pandas
+- pooch
+- pyarrow
+- python-dateutil
+- pytz
+- rich
+- toolz
+- typing-extensions
+

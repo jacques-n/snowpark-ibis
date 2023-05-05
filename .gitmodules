@@ -1,0 +1,9 @@
+[submodule "ibis"]
+	path = ibis
+	url = git@github.com:cpcloud/ibis.git
+[submodule "sqlglot"]
+	path = sqlglot
+	url = git@github.com:tobymao/sqlglot.git
+[submodule "parsy"]
+	path = parsy
+	url = git@github.com:python-parsy/parsy.git
